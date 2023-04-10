@@ -1,2 +1,2 @@
-# Data-Engineering
-A brief documentation for Data Engineering workflow
+# STDP Algorithm
+A brief documentation for training spiking neural network on pngs
